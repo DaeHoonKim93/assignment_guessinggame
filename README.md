@@ -1,5 +1,5 @@
-# Guessing Game Course Project
+# Guessinggame_Project
 
-Created on 10/20/22 at 20:19:54
+Date and time which make was run on at 20:41:23
 
 Script guessinggame.sh contains 23 lines
